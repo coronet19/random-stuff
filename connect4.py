@@ -116,7 +116,7 @@ def update_board(move):
         else:
             counter -= 1
 
-os.system("clear")
+os.system("cls")
 print("Welcome To Connect 4!")
 print("To Place Your Token, Enter An Integer Corresponding To The Column You Want To Place Your Token In.")
 print("To Start, Press Enter.")
